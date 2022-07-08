@@ -1,0 +1,26 @@
+{
+  "name": "dnd-discord",
+  "version": "1.0.0",
+  "description": "https://discord.com/api/oauth2/authorize?client_id=994815213968822292&permissions=268553280&scope=bot",
+  "main": "discordbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbridgeman/DnD-Discord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbridgeman/DnD-Discord/issues"
+  },
+  "homepage": "https://github.com/nbridgeman/DnD-Discord#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.36.1",
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  }
+}
